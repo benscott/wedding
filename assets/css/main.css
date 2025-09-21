@@ -2540,4 +2540,9 @@ h3{
 
 .main > header {
 	padding: 2em 2em 3.5em 2em;
+	
+}
+
+#first .image:after {
+	background-image: None!important;
 }
